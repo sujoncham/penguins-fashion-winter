@@ -1,0 +1,28 @@
+.header img {
+    width: 300px;
+ }
+
+ .menu li {
+    list-style: none;
+    padding: 10px;
+ }
+
+ .header a,
+ .menu li a {
+    text-decoration: none;
+    color: #ffc107;
+ }
+
+ .custom-gap img {
+    /* width: 250px; */
+    display: block;
+    margin: 0 auto;
+ }
+
+ .features img {
+    width: 100px;
+ }
+
+ .shopping-cart img {
+    width: 100%;
+ }
