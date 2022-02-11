@@ -26,3 +26,8 @@
  .shopping-cart img {
     width: 100%;
  }
+
+ .imagepart{
+     display: block;
+     margin: 0 auto;
+ }
